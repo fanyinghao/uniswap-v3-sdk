@@ -8,7 +8,7 @@ import {
   TradeType,
   Token,
   computePriceImpact
-} from '@uniswap/sdk-core'
+} from '@blocktree/uniswap-sdk-core'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO } from '../internalConstants'
 import { Pool } from './pool'

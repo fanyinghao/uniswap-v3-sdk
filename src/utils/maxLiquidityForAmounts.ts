@@ -1,4 +1,4 @@
-import { BigintIsh } from '@uniswap/sdk-core'
+import { BigintIsh } from '@blocktree/uniswap-sdk-core'
 import JSBI from 'jsbi'
 import { Q96 } from '../internalConstants'
 
