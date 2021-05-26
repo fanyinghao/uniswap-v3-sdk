@@ -855,10 +855,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@blocktree/uniswap-sdk-core@^3.0.0-alpha.2":
-  version "3.0.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/@blocktree/uniswap-sdk-core/-/uniswap-sdk-core-3.0.0-alpha.2.tgz#a3d5695076ee0f308995662f727b0daccd2d2bbd"
-  integrity sha512-wJdaRQTBJYAjK+IG6ve7Gep3OsHGs6bm3WRqJNWddg08C9IMVc54egXMDlQoJR8swcsQ9mOBDIv7bUwf7zIlOQ==
+"@blocktree/uniswap-sdk-core@^3.0.0-alpha.3":
+  version "3.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@blocktree/uniswap-sdk-core/-/uniswap-sdk-core-3.0.0-alpha.3.tgz#5f773fc41997bebd7909358aff96d95f0f9e84a7"
+  integrity sha512-ilOQ5mRSWrZ2iu4RktcpslXAam2h8gEAC6mVoozwdDllvcEMoCzXmmjp29u2KN/e+ZcNdm2n3XI0YX/BU9dgXg==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
